@@ -1,0 +1,12 @@
+[submodule "Tor-nonprism"]
+	path = Tor-nonprism
+	url = https://github.com/slackwarecn-slackbuilds/Tor-nonprism
+[submodule "NetworkManager-nonprism"]
+	path = NetworkManager-nonprism
+	url = https://github.com/slackwarecn-slackbuilds/NetworkManager-nonprism
+[submodule "macchiato-nonprism"]
+	path = macchiato-nonprism
+	url = https://github.com/slackwarecn-slackbuilds/macchiato-nonprism
+[submodule "icecat-hardened-nonprism"]
+	path = icecat-hardened-nonprism
+	url = https://github.com/slackwarecn-slackbuilds/icecat-hardened-nonprism
